@@ -5,6 +5,11 @@
 
 3-git clone https://github.com/skar80/The-Speed
 
+4-cd The-Speed 
+
+bash install-termux-metasploit.sh
+
+
 **The-Speed/The-Speed** is a ✨ _special_ ✨ repository because its `>
 
 #####################################################
