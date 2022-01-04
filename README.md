@@ -7,7 +7,10 @@
 
 4-cd The-Speed 
 
-bash install-termux-metasploit.sh
+5- bash install-termux-metasploit.sh
+
+
+6-./metasploit.sh 
 
 
 **The-Speed/The-Speed** is a ✨ _special_ ✨ repository because its `>
